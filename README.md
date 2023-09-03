@@ -1,13 +1,7 @@
 # computer
 How it things works
 
-## 1 - Objetivo
-Aprender sobre computadores
-Aprender sobre microcontroladores
-Desenvolver habilidade de programação
-Construir protótipos usando Arduino
-
-## 2 - Um pouco de história sobre computação e eletrônica
+## 1 - Um pouco de história sobre computação e eletrônica
     * Começo na Babilonia em 2400 a.C, uso do abaco.
     * Entre 200 a.C. e 400, os indianos, inventaram logarítimo
     * Entre (1592-1635), Wilhelm Schickard construíu a primeira calculadora
@@ -18,7 +12,7 @@ Construir protótipos usando Arduino
     * John Von Neumann (1903-1957) formalizou o projeto lógico de um computador
     * Entre 1950 e 1960, EUA e Europa concorre na invenção do Transitor
 
-## 3 - Sistema númerico
+## 2 - Sistema númerico
     decimal     = 10
     hexdecimal  = 16
     nossa       = 5
@@ -93,7 +87,7 @@ Construir protótipos usando Arduino
         bit      = 1 ou 0
         byte     = 8 bits
 
-## 4 - Curiosidades
+## 3 - Curiosidades
     * Tabela ASCII possuí 256 caracter, cada caracter é representado por 1 byte ou 8 bits, peceba que 2^8 gera 256 possiveis valores.
     * Cada letra em hexadecimal corresponde a 1 byte (8 bits) então:
      a) FF               -> 1111 1111                                                                                  (1 bytes)  (8 bits)
@@ -102,7 +96,7 @@ Construir protótipos usando Arduino
      d) FFFFFFFFFFFFFFFF -> 1111 1111 1111 1111 1111 1111 1111 1111 1111 1111 1111 1111 1111 1111 1111 1111            (8 bytes)  (64 bits)
     * Cores no css/html, usamos 6 bytes em hexadecimal, ou FF FF FF, ou 16777215 decimal
 
-## 5 - Eletrônica
+## 4 - Eletrônica
     * Digital e Analogica
     * Analógica
         - Registores, diodos, capacitores, bobinas, transitors, potênciometro, cristais, sensores
