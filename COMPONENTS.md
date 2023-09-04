@@ -39,4 +39,4 @@ I = V / R
 
 ```
 
-![Exemplos 02](relacao_rxb.png)
+<img src="relacao_rxb.png" width="200"/>
