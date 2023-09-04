@@ -62,5 +62,7 @@ R = 0,35 * 1000
 R = 350 Ω
 ```
 
+<img src="ligacaoled.png" width="100"/>
+
 
 
