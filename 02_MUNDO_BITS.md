@@ -4,4 +4,4 @@
 ![Exemplos 01](digito.png)
 
 ## Porta logica
-![Exemplos 01](portalogica.png)
+![Exemplos 01](portalogica.jpg)
