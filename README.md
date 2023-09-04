@@ -1,6 +1,6 @@
 # computer
 How it things works
 
-[Introdução](INTRODUCAO.md)
+[Introdução](01_INTRODUCAO.md)
 
-[Componentes](COMPONENTS.md)
+[Componentes](02_COMPONENTES.md)
