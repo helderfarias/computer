@@ -14,7 +14,7 @@
 - Propriedade de um corpo que reage contra a ação de outro corpo.
 - É a capacidade física de um corpo qualquer se opor à passagem de corrente elétrica mesmo quando existe uma diferença de potencial aplicada.
 
-![Exemplos de resistência](resistencia.png)
+![Exemplos 01](resistencia.png)
 
 ### Primeira Lei de Ohm's
 Formula usada para controlar a corrente e tensão no circuito.
@@ -38,3 +38,5 @@ ou
 I = V / R
 
 ```
+
+![Exemplos 02](relacao_rxb.png)
