@@ -40,3 +40,27 @@ I = V / R
 ```
 
 <img src="relacao_rxb.png" width="200"/>
+
+### Bricando com LED
+É LED é um circuito que sempre deve ter uma resistor acoplado em série com ele. A maioria dos LED precisa de uma tensão de 2v e 20mA (ou 0,02A) para acender. Usamos uma formula simples para calcular a resistência necessário com base na fonte de energia:
+
+```
+R = V(bat) - V(led) / I (led)
+```
+
+```
+Dado que: 
+
+Bateria -> 9v
+LED -> 2v
+
+Então:
+
+R = ( 9v - 2v ) / 20 mA
+R = 7v / 20mA
+R = 0,35 * 1000
+R = 350 Ω
+```
+
+
+
